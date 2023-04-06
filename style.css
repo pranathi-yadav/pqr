@@ -1,0 +1,26 @@
+#campusLife{
+    background-color: #0d5c70;
+    text-align: center;
+}
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.movie_head i{
+    float: right;
+}
+
+.achievement_text span{
+    color: aquamarine;
+}
+
+.new{
+    margin-bottom: 20px;
+}
+
+#contact iframe{
+    width: 100%;
+}
